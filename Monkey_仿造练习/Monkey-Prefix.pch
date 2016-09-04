@@ -1,0 +1,20 @@
+//
+//  Monkey-Prefix.pch
+//  Monkey_仿造练习
+//
+//  Created by 康帅 金 on 2016/8/26.
+//  Copyright © 2016年 康帅 金. All rights reserved.
+//
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+#ifndef __OBJC__
+#import <UIKit/UIKit.h>
+#import  <Foundation/Foundation.h>
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Monkey_Prefix_pch */
+#import "AppConfig.h"
+#import "PrefixFile.h"

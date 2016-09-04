@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Monkey_仿造练习
+
+  Created by 康帅 金 on 2016/8/26.
+  Copyright © 2016年 康帅 金. All rights reserved.
+*/
+//中国的城市
+"beijing"="北京";
+"shanghai"="上海";
+"shenzhen"="深圳";
+"hangzhou"="杭州";
+"guangzhou"="广州";
+"chengdu"="成都";
+"nanjing"="南京";
+"wuhan"="武汉";
+"suzhou"="苏州";
+"xiamen"="厦门";
+"tianjin"="天津";
+"chongqing"="重庆";
+"changsha"="长沙";
+
+
+"all languages"="所有语言";
+"city"="城市";
+"language"="语言";
+"Language"="语言";
+
+"Discovery"="发现";
+
+"login"="登录";
+"about"="关于";
+"feedback"="反馈";
+"search"="搜索";
+"logout"="退出登录";
+"Author"="作者";
+"Version"="版本";
+"cancel"="取消";
+//yirefresh
+"loading"="正在载入";
+"pull down"="下拉可刷新";
+"release"="松开以刷新";
+
+"News"="动态";
+"More"="更多";
+"Select City"="选择城市";
+"Select Country"="选择国家";
