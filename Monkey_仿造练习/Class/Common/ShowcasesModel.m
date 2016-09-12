@@ -13,8 +13,14 @@
     if (!dict) {
         return Nil;
     }
-    ShowcasesModel *model = [ShowcasesModel mj_objectWithKeyValues:dict];
+    ShowcasesModel *model = [[ShowcasesModel alloc]init];
+    model.name = [dict objectForKey:@"name"] ;
+    model.slug = [dict objectForKey:@"slug"] ;
+    model.DS = [dict objectForKey:@"description"] ;
+    model.image_url = [dict objectForKey:@"image_url"] ;
+
     return model;
+
 
 }
 

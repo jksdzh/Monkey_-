@@ -29,7 +29,22 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>SDAutoLayout.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>SQLCipher.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>UITableView+FDTemplateLayoutCell.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>UIView+AutoLayout.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -37,12 +52,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>100B5CE34542EFF33A7A3B963CB141C1</key>
+		<key>0A13637A70A09B8F7DD3E8C70C777075</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>4E4651ADE3ED1B1553F043DC27229717</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>58190F03C7933814DE1141CDB0D90650</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -53,6 +73,16 @@
 			<true/>
 		</dict>
 		<key>744F7CD12F8BBD9F25362CDAD590D524</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>83C25BC8BC1A33D090725F291F3C5508</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>91D3A19475A1181A6088E77DED9D967A</key>
 		<dict>
 			<key>primary</key>
 			<true/>

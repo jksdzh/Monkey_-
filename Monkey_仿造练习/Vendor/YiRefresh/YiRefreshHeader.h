@@ -32,7 +32,7 @@ typedef void (^BeginRefreshingBlock)(void);
 -(void)endRefreshing;
 
 
-+(YiRefreshHeader *)refreshHeader;
+//+(YiRefreshHeader *)refreshHeader;
 
 
 

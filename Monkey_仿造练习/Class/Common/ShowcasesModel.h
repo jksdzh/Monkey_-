@@ -11,7 +11,8 @@
 @interface ShowcasesModel : NSObject
 @property (nonatomic,strong) NSString *name;
 @property (nonatomic,strong) NSString *slug;
-@property (nonatomic,strong) NSString  *showcasesDescription;
+@property (nonatomic,strong) NSString *DS;
 @property (nonatomic,strong) NSString *image_url;
+@property (nonatomic,strong) NSNumber *height;
 + (ShowcasesModel *)modelWithDict:(NSDictionary *)dict;
 @end

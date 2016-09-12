@@ -7,7 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
-
+@protocol ReformerProtocol <NSObject>
+//- (NSDictionary )reformDataWithManager:(APIManeger *)manager;
+@end
 @interface ShowCasesViewController : UIViewController
 
 @end
